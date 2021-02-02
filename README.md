@@ -2,8 +2,7 @@
 
 ---
 
-- 🔭 Podcast channel: [What He Said. What She Said](https://anchor.fm/kenneth-ndungu/episodes/Intro-eh7b6h "What He Said. What She Said")
-- 🌱 I manage a charity foundation: [The Lynn Barbra Charity Foundation](http://lynnbarbracharity.com/ "The Lynn Barbra Charity Foundation")
+- 🌱 charity foundation: [The Lynn Barbra Charity Foundation](http://lynnbarbracharity.com/ "The Lynn Barbra Charity Foundation")
 - 👯 I’m looking to collaborate with other developers and content creators
 - ⚡ Fun fact: I'm also a graphic designer and a proud member of the loc'd community.
 
